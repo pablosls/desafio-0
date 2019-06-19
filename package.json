@@ -1,0 +1,23 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "A web chat to help developers to test their chatbot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Victor Shinya <vshinya@br.ibm.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cfenv": "^1.2.2",
+    "chalk": "^2.4.2",
+    "dotenv": "^4.0.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "ibm-watson": "^4.2.1",
+    "method-override": "^2.3.10",
+    "request": "^2.88.0"
+  }
+}

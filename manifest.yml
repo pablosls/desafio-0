@@ -1,0 +1,6 @@
+---
+applications:
+- name: chat-app
+  path: .
+  memory: 128M
+  instances: 1
