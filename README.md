@@ -30,7 +30,7 @@ Desafio preparatório para a [Maratona Behind the Code](https://ibm.biz/maratona
 ### 1. Clone o repositório
 
 ```sh
-git clone https://github.com/maratonadev.com/desafio-0.git
+git clone https://github.com/maratonadev/desafio-0.git
 ```
 
 ### 2. Instale todas as dependências
