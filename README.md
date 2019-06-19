@@ -12,10 +12,11 @@ Desafio preparatório para a [Maratona Behind the Code](https://ibm.biz/maratona
 
 2. Registrar-se na [IBM Cloud](https://ibm.biz/BdzsFc).
 
-[![Deploy to IBM Cloud](https://cloud.ibm.com/devops/setup/deploy/button.png)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/victorshinya/desafio-0.git)
+[![Deploy to IBM Cloud](https://cloud.ibm.com/devops/setup/deploy/button.png)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/maratonadev/desafio-0.git)
 
 3. Clique no botão `Deploy to IBM Cloud` e depois...
 
+    * Renomeie o nome do app para `{seu-id}-d0`.
     * Clique em `Create+` para criar uma chave de API na IBM Cloud.
     * Selecione a sua região (`Dallas` é a região mais usada), organização e espaço (ou use o `defaults`).
     * Clique em `Deploy`.
