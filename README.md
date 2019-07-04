@@ -12,7 +12,7 @@ Desafio preparatório para a [Maratona Behind the Code](https://ibm.biz/maratona
 
 2. Registrar-se na [IBM Cloud](https://ibm.biz/BdzsFc).
 
-[![Deploy to IBM Cloud](https://cloud.ibm.com/devops/setup/deploy/button.png)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/maratonadev/desafio-0.git)
+[![Deploy to IBM Cloud](https://cloud.ibm.com/devops/setup/deploy/button.png)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/pablosls/desafio-0.git)
 
 3. Clique no botão `Deploy to IBM Cloud` e depois...
 
@@ -30,7 +30,7 @@ Desafio preparatório para a [Maratona Behind the Code](https://ibm.biz/maratona
 ### 1. Clone o repositório
 
 ```sh
-git clone https://github.com/maratonadev/desafio-0.git
+git clone https://github.com/pablosls/desafio-0.git
 ```
 
 ### 2. Instale todas as dependências
